@@ -1,6 +1,10 @@
 import json
 import os
 
+#BASE BY SXPLOIT
+#JANGAN DECODE
+#RECODE = YATIM, MATI SEKELUARGA, MENINGGAL 7 TURUNAN
+#SC PEMULA GINI MAU DI RECODE? LAWAK😂🤣😂
 # ANSI escape sequences for coloring #Untuk warna ygy
 RESET = "\033[0m"
 RED = "\033[31m"
@@ -31,10 +35,11 @@ def main():
     print(RED + "\__ \ >  <|___|| (_) |\__ \ | | | .` |  | |" + RESET)  
     print(RED + "|___//_/\_\     \___/ |___/|___||_|\_|  |_|" + RESET)                                             
     print(RESET + "===============================================================" + RESET)
-    print(BLUE + "Creator : SXploit" + RESET)
+    print(BLUE + "Author : SXploit" + RESET)
     print(BLUE + "Telegram : t.me/SXploit" + RESET)
     print(BLUE + "Instagram : slmnxploit" + RESET)
-    print(GREEN + "Script : Maintenance/Masih Dikembangkan!" + RESET)
+    print(BLUE + "YouTube : SXploit Vision" + RESET) 
+    print(GREEN + "Script : https://github.com/SXploit01" + RESET)
 
     nik = input(RED + "Input NIK Target: " + RESET)
 
